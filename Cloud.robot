@@ -29,4 +29,4 @@ Enter values in Facebook Page
     Input Text    ${firstname}    ${i_firstname}
     Input Text    ${lastname}    ${i_lastname}
     Input Text    ${mobile}    ${i_mobile}
-    Input Text    ${password}    ${i_password} 
+    Input Text    ${password}    ${i_password}
